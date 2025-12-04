@@ -1,0 +1,5 @@
+{
+  "name": "AI Dungeon Master",
+  "description": "An immersive AI-powered Dungeon Master for D&D 5e. Features integrated dice rolling, party management, and a dynamic narrative engine.",
+  "requestFramePermissions": []
+}
